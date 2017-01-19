@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal+Operations.m \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/Target\ Support\ Files/ReactiveCocoa/ReactiveCocoa-prefix.pch \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal+Operations.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStream.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACDeallocating.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACDescription.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACBlockTrampoline.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACCommand.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACCompoundDisposable.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDisposable.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEvent.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACGroupedSignal.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubject.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriber.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACMulticastConnection+Private.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACMulticastConnection.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACReplaySubject.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSerialDisposable.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignalSequence.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSequence.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStream+Private.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriber+Private.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTuple.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Build/Intermediates/Pods.build/Debug-iphonesimulator/ReactiveCocoa.build/module.modulemap \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/metamacros.h \
+  /Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACUnit.h

@@ -1,0 +1,22 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "de211f934c08a91eaf39fd25a3567be8"
+build_time: [536980923, 832822000]
+inputs:
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Action.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Atomic.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Bag.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/CocoaAction.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Disposable.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/DynamicProperty.swift": !dirty [536980761, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Event.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/EventLogger.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Flatten.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/FoundationExtensions.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/ObjectiveCBridging.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Observer.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Optional.swift": !dirty [536980651, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Property.swift": !dirty [536980761, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Scheduler.swift": !dirty [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/Signal.swift": !dirty [536980761, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/SignalProducer.swift": !dirty [536980651, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/ReactiveCocoa/ReactiveCocoa/Swift/TupleExtensions.swift": !dirty [536980760, 0]

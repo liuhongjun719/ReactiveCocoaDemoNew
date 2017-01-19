@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ace8d1dc640668236b728a30f2a65014"
+build_time: [536980920, 499349000]
+inputs:
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/Result/Result/Result.swift": [536980760, 0]
+  "/Users/a123456/Desktop/ReactiveCocoaDemoNew/Pods/Result/Result/ResultType.swift": [536980760, 0]
